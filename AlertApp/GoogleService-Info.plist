@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>282710693108-b5t9at56vp7gvlq2jq8qtpfehiojd2fn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.282710693108-b5t9at56vp7gvlq2jq8qtpfehiojd2fn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9d0_bpUyYQ7hZ1ihTgF-t1U2LDQiafuM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>282710693108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.google.AlertApp</string>
+	<key>PROJECT_ID</key>
+	<string>alertapp-7994e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alertapp-7994e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:282710693108:ios:464ceee8c4ff3ab5</string>
+	<key>DATABASE_URL</key>
+	<string>https://alertapp-7994e.firebaseio.com</string>
+</dict>
+</plist>
